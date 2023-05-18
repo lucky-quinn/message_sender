@@ -1,0 +1,18 @@
+{
+  "name": "betser",
+  "version": "1.0.0",
+  "description": "webapp that posts messages to an end point, read the response and display it in a window",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "pug": "^3.0.2",
+    "sw-precache": "^5.2.1"
+  }
+}
